@@ -1,0 +1,15 @@
+{
+  "name": "cypress-wave",
+  "version": "1.0.0",
+  "description": "CypressWave is a comprehensive repository showcasing the capabilities of Cypress for end-to-end testing. This repository is designed to help developers and QA engineers understand and implement automated testing using Cypress for modern web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.12.0"
+  }
+}
